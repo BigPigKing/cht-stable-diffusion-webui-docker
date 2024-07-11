@@ -7,6 +7,7 @@
 /.vscode
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 .env.prod
 .env.dev
@@ -56,6 +57,11 @@ notification.mp3
 /cache
 >>>>>>> feee37d75f1b168768014e4634dcb156ee649c05
 >>>>>>> cht-main
+=======
+
+.env.dev
+.env.prod
+>>>>>>> master
 =======
 
 .env.dev
